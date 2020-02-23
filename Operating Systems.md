@@ -85,6 +85,9 @@ https://blog.csdn.net/wh_sjc/article/details/70283843
 进程间通信方式有哪些？   
 https://blog.csdn.net/hyb612/article/details/89629189   
 
+进程间通信的方式——信号、管道、消息队列、共享内存   
+https://www.cnblogs.com/LUO77/p/5816326.html   
+
 ### 进程同步问题
 
 > 进程的同步是目的，而进程间通信是实现进程同步的手段
