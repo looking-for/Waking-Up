@@ -78,6 +78,13 @@
 
 7. 套接字(Socket)
 
+my:   
+进程间的五种通信方式介绍   
+https://blog.csdn.net/wh_sjc/article/details/70283843   
+
+进程间通信方式有哪些？   
+https://blog.csdn.net/hyb612/article/details/89629189   
+
 ### 进程同步问题
 
 > 进程的同步是目的，而进程间通信是实现进程同步的手段
