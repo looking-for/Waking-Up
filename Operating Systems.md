@@ -298,6 +298,15 @@ wait操作：执行wait操作的进程进入条件变量链末尾，唤醒紧急
 互斥量是可以命名的，可以用于不同进程之间的同步；而临界区只能用于同一进程中线程的同步。创建互斥量需要的资源更多，因此临界区的优势是速度快，节省资源。
 </details>
 
+my:    
+Linux多线程与同步机制    
+https://www.cnblogs.com/gx-303841541/p/3412387.html   
+
+Linux 线程同步的三种方法    
+https://blog.csdn.net/zsf8701/article/details/7844316    
+
+
+
 ### 什么是IO多路复用？怎么实现？
 IO多路复用（IO Multiplexing）是指单个进程/线程就可以同时处理多个IO请求。
 
